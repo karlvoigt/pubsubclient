@@ -1,11 +1,11 @@
 /*
- PubSubClient.h - A simple client for MQTT.
+ TBPubSubClient.h - A simple client for MQTT.
   Nick O'Leary
   http://knolleary.net
 */
 
-#ifndef PubSubClient_h
-#define PubSubClient_h
+#ifndef TBPubSubClient_h
+#define TBPubSubClient_h
 
 #include <Arduino.h>
 #include "IPAddress.h"
