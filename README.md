@@ -5,7 +5,6 @@ Since we have an SDK based on this client, we decided to continue with this repo
 We also believe that this library provides a lot of opportunities for people who want to build their own IoT devices.  
 As with our other open source repositories, we appreciate every contribution to this library.  
 
-We were forced to change the name of the library, add it to the Arduino libraries, but it does not contain any specific code to work with our platform, and it is still open to work with any MQTT broker.
 
 # Arduino Client for MQTT
 
