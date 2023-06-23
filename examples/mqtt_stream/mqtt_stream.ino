@@ -11,7 +11,7 @@
 
 #include <SPI.h>
 #include <Ethernet.h>
-#include <PubSubClient.h>
+#include <TBPubSubClient.h>
 #include <SRAM.h>
 
 // Update these with values suitable for your network.
