@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/thingsboard/pubsubclient.git"
     },
-    "version": "2.9.1",
+    "version": "2.9.2",
     "exclude": "tests",
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
