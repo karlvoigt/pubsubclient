@@ -1,5 +1,5 @@
 /*
- TBPubSubClient.h - A simple client for MQTT.
+ PubSubClient.h - A simple client for MQTT.
   Nick O'Leary
   http://knolleary.net
 */
