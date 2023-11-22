@@ -4,8 +4,8 @@
   http://knolleary.net
 */
 
-#ifndef TBPubSubClient_h
-#define TBPubSubClient_h
+#ifndef PubSubClient_h
+#define PubSubClient_h
 
 #include <Arduino.h>
 #include "IPAddress.h"
