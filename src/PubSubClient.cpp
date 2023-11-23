@@ -5,7 +5,7 @@
   http://knolleary.net
 */
 
-#include "TBPubSubClient.h"
+#include "PubSubClient.h"
 #include "Arduino.h"
 
 PubSubClient::PubSubClient() {
